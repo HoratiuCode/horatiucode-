@@ -1,6 +1,6 @@
 # Hi, I'm Horatiu 🤖
 
-📍 **Bucharest, Romania** | 🚀 **AI & Crypto Visionary** | 💼 **Cofondator Agency AI**
+📍 **Bucharest, Romania** | 🚀 **AI & Crypto Visionary** | 💼 **Co-founder of Symplyfy**
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI-Powered-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered Badge">
