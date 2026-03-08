@@ -17,7 +17,7 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   🤖 **[DominAI](https://github.com/HoratiuCode/dominai)**: An AI-powered business partner designed to facilitate smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
 *   🌐 **[landingpage](https://github.com/HoratiuCode/landingpage)**: Concept and landing page prototype for Teddy AI, an AI agency website.
 *   📈 **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data, built for simplicity, speed, and clarity.
-*   🗑️ **[AlIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
+*   🗑️ **[ALIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
 ## My Workspace
 
 My digital forge is powered by a suite of cutting-edge tools, meticulously chosen to amplify productivity and innovation:
