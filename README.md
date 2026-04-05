@@ -18,6 +18,12 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   🌐 **[landingpage](https://github.com/HoratiuCode/landingpage)**: Concept and landing page prototype for Teddy AI, an AI agency website.
 *   📈 **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data, built for simplicity, speed, and clarity.
 *   🗑️ **[ALIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
+*   🧠 **[Marc-AI](https://github.com/HoratiuCode/Marc-AI)**: An AI for creating marketing content.
+*   🛠️ **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
+*   💰 **[memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: A Manus Skill for memecoin trading on Solana, Base, and Ethereum.
+*   🤖 **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**: A collection of simple AI agents for various tasks.
+*   📱 **[symplyfy](https://github.com/HoratiuCode/symplyfy)**: Base44 App: Symplyfy.
+*   🚀 **[symplyfylead](https://github.com/HoratiuCode/symplyfylead)**: Base44 App: Symplyfy.
 *   🦐 **[Jameclaw](https://github.com/HoratiuCode/jameclaw)**: Your AI agent for fancy jobs
 
 ## My Workspace
@@ -27,9 +33,8 @@ My digital forge is powered by a suite of cutting-edge tools, meticulously chose
 <p align="left">
   <img src="https://img.shields.io/badge/Manus%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Manus AI Badge">
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Codex Badge">
-  <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTgzem0wIDMuNjE3Yy0yLjIwOSAwLTQgMS43OTEtNCA0czEuNzkxIDQgNCA0IDQtMS43OTEtNC00LTEuNzkxLTQtNC00em0wIDguNzU4Yy00LjE4MiAwLTcuNTgzIDMuNDAxLTcuNTgzIDcuNTgzIDAgNC4xODIgMy40MDEgNy41ODMgNy41ODMgNy41ODMgNC4xODIgMCA3LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyLTMuNDAxLTcuNTgzLTcuNTgzLTcuNTgzem0wIDguNzU4Yy00LjE4MiAwLTcuNTgzIDMuNDAxLTcuNTgzIDcuNTgzIDAgNC4xODIgMy40MDEgNy41ODMgNy41ODMgNy41ODMgNC4xODIgMCA3LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyLTMuNDAxLTcuNTgzLTcuNTgzLTcuNTgzeiIgZmlsbD0iI0ZGOTkwMCIvPjwvc3ZnPg==&logoColor=white" alt="Claude Badge">
+  <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTgzem0wIDMuNjE3Y20yLjIwOSAwLTQgMS43OTEtNCA0czEuNzkxIDQgNCA0IDQtMS43OTEtNC00LTEuNzkxLTQtNC00em0wIDguNzU4Yy00LjE4MiAwLTcuNTgzIDMuNDAxLTcuNTgzIDcuNTgzIDAgNC4xODIgMy40MDEgNy41ODMgNy41ODMgNy41ODMgNC4xODIgMCA3LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyLTMuNDAxLTcuNTgzLTcuNTgzLTcuNTgzem0wIDguNzU4Y200LjE4MiAwLTcuNTgzIDMuNDAxLTcuNTgzIDcuNTgzIDAgNC4xODIgMy40MDEgNy41ODMgNy41ODMgNy41ODMgNC4xODIgMCA3LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyLTMuNDAxLTcuNTgzLTcuNTgzLTcuNTgzeiIgZmlsbD0iI0ZGOTkwMCIvPjwvc3ZnPg==&logoColor=white" alt="Claude Badge">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor Badge">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge">
 </p>
 
 ### Mastering Vibe-Coding Tools:
@@ -55,5 +60,8 @@ Let's connect and build the future together!
   </a>
   <a href="https://twitter.com/HoratiuCode">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+  <a href="https://horatiucode.xyz">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge">
   </a>
 </p>
