@@ -14,15 +14,16 @@ Deep in the pursuit of **transformative AI and decentralized technologies**, I a
 
 Here are some of the initiatives I'm actively building and contributing to:
 
-*   🤖 **[DominAI](https://github.com/HoratiuCode/dominai)**: An AI-powered business partner designed to facilitate smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
-*   🌐 **[landingpage](https://github.com/HoratiuCode/landingpage)**: Concept and landing page prototype for Teddy AI, an AI agency website.
-*   📈 **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data, built for simplicity, speed, and clarity.
-*   🗑️ **[ALIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
-*   🛠️ **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
-*   💰 **[memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: A Manus Skill for memecoin trading on Solana, Base, and Ethereum.
-*   🤖 **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**: A collection of simple AI agents for various tasks.
-*   🦐 **[Clawie](https://github.com/HoratiuCode/Clawie)**
-*   🦐 **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs
+*   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**
+*   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
+*    **[MirrorAir](https://github.com/HoratiuCode/MirrorAir)**
+*   🛠️  **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
+*   💰  **[memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: A Manus Skill for memecoin trading on Solana, Base, and Ethereum.
+*   🗑️  **[ALIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
+*   🌐  **[landingpage](https://github.com/HoratiuCode/landingpage)**: Teddy AI – Concept and landing page prototype for an AI agency website
+*   📈  **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data. Enter a stock ticker and instantly get key information such as current price, daily change, market cap, volume, and historical data.  Built for simplicity, speed, and clarity. No complex dashboards. No overengineered analytics. Just the data you need.
+*   🤖  **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**
+*    **[DominAI](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
 
 ## My Workspace
 
