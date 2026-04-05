@@ -14,7 +14,7 @@ Deep in the pursuit of **transformative AI and decentralized technologies**, I a
 
 Here are some of the initiatives I'm actively building and contributing to:
 
-*   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**
+*   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**: A fast terminal coding agent built to write code well, stay easy to use, and run with serious local-model power when you want speed and control on your own machine.
 *   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
 *   🍎 **[MirrorAir](https://github.com/HoratiuCode/MirrorAir)**
 *   🛠️  **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
@@ -34,6 +34,7 @@ My digital forge is powered by a suite of cutting-edge tools, meticulously chose
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Codex Badge">
   <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTgzeiIgZmlsbD0iI0ZGOTkwMCIvPjwvc3ZnPg==&logoColor=white" alt="Claude Badge">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor Badge">
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal Badge">
 </p>
 
 ### Mastering Vibe-Coding Tools:
