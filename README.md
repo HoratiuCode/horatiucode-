@@ -16,7 +16,7 @@ Here are some of the initiatives I'm actively building and contributing to:
 
 *   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**
 *   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
-*    **[MirrorAir](https://github.com/HoratiuCode/MirrorAir)**
+*   🍎 **[MirrorAir](https://github.com/HoratiuCode/MirrorAir)**
 *   🛠️  **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
 *   💰  **[memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: A Manus Skill for memecoin trading on Solana, Base, and Ethereum.
 *   🗑️  **[ALIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
