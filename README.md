@@ -14,6 +14,8 @@ Deep in the pursuit of **transformative AI and decentralized technologies**, I a
 
 Here are some of the initiatives I'm actively building and contributing to:
 
+*   💡  **[ideas-machien](https://github.com/HoratiuCode/ideas-machien)**: An innovative platform for generating and managing ideas.
+*   🐦  **[BraiX](https://github.com/HoratiuCode/BraiX)**: BraiX 🐦 helps you find the most relevant post on X without endless scrolling by scanning visible or loaded posts, ranking them by engagement, and filtering them with simple news-focused rules.
 *   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**: A fast terminal coding agent built to write code well, stay easy to use, and run with serious local-model power when you want speed and control on your own machine.
 *   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
 *   🍎 **[MirrorAir](https://github.com/HoratiuCode/MirrorAir)**
