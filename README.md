@@ -26,6 +26,8 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   📈  **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data. Enter a stock ticker and instantly get key information such as current price, daily change, market cap, volume, and historical data.  Built for simplicity, speed, and clarity. No complex dashboards. No overengineered analytics. Just the data you need.
 *   🤖  **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**
 *    **[DominAI](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
+*   🐶  **[Snifmeme](https://github.com/HoratiuCode/Snifmeme)**
+*   📚  **[trader-learn](https://github.com/HoratiuCode/trader-learn)**
 
 ## My Workspace
 
