@@ -14,20 +14,20 @@ Deep in the pursuit of **transformative AI and decentralized technologies**, I a
 
 Here are some of the initiatives I'm actively building and contributing to:
 
+*   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**: Clawie is a fast terminal coding agent built to write code well, stay easy to use, and run with serious local-model power when you want speed and control on your own machine.
+*   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
+*   📈  **[trader-learn](https://github.com/HoratiuCode/trader-learn)**
+*   👃  **[Snifmeme](https://github.com/HoratiuCode/Snifmeme)**
 *   💡  **[ideas-machien](https://github.com/HoratiuCode/ideas-machien)**: An innovative platform for generating and managing ideas.
 *   🐦  **[BraiX](https://github.com/HoratiuCode/BraiX)**: BraiX 🐦 helps you find the most relevant post on X without endless scrolling by scanning visible or loaded posts, ranking them by engagement, and filtering them with simple news-focused rules.
-*   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**: A fast terminal coding agent built to write code well, stay easy to use, and run with serious local-model power when you want speed and control on your own machine.
-*   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
-*   🍎 **[MirrorAir](https://github.com/HoratiuCode/MirrorAir)**
+*   🍎  **[MirrorAir](https://github.com/HoratiuCode/MirrorAir)**
 *   🛠️  **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
 *   💰  **[memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: A Manus Skill for memecoin trading on Solana, Base, and Ethereum.
 *   🗑️  **[ALIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
-*   🌐  **[landingpage](https://github.com/HoratiuCode/landingpage)**: Teddy AI – Concept and landing page prototype for an AI agency website
-*   📈  **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data. Enter a stock ticker and instantly get key information such as current price, daily change, market cap, volume, and historical data.  Built for simplicity, speed, and clarity. No complex dashboards. No overengineered analytics. Just the data you need.
+*   📈  **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data. Enter a stock ticker and instantly get key information such as current price, daily change, market cap, volume, and historical data. Built for simplicity, speed, and clarity. No complex dashboards. No overengineered analytics. Just the data you need.
 *   🤖  **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**
-*    **[DominAI](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
-*   🐶  **[Snifmeme](https://github.com/HoratiuCode/Snifmeme)**
-*   📚  **[trader-learn](https://github.com/HoratiuCode/trader-learn)**
+*   💼  **[dominai](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
+*   🌐  **[landingpage](https://github.com/HoratiuCode/landingpage)**: Teddy AI – Concept and landing page prototype for an AI agency website
 
 ## My Workspace
 
@@ -36,7 +36,7 @@ My digital forge is powered by a suite of cutting-edge tools, meticulously chose
 <p align="left">
   <img src="https://img.shields.io/badge/Manus%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Manus AI Badge">
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Codex Badge">
-  <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTgzeiIgZmlsbD0iI0ZGOTkwMCIvPjwvc3ZnPg==&logoColor=white" alt="Claude Badge">
+  <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNThzeiIgZmlsbD0iI0ZGOTkwMCIvPjwvc3ZnPg==&logoColor=white" alt="Claude Badge">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor Badge">
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal Badge">
 </p>
